@@ -46,9 +46,11 @@ INSTALLED_APPS = [
 
     # Third party apps
     'compressor',
+    'adminsortable2',
 
     # Local apps
     'base',
+    'bugdemo'
 ]
 
 # https://docs.djangoproject.com/en/1.10/topics/auth/passwords/#using-argon2-with-django
